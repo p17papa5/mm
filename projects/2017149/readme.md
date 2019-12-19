@@ -107,3 +107,20 @@ w3m www.google.com
 
 Άνοιξα πρώτη και δεύτερη σελίδα, οταν μου άνηξε την σελίδα του βιβλίου πάτησα Q για να βγω από το w3m.
 
+
+## Eργασία 4 download a torrent
+
+## asciinema URL: https://asciinema.org/a/289242
+
+## Τα προγράμματα που χρησιμοποίησα:
+
+# rtorrent 
+
+```
+sudo apt-get install rtorrent
+```
+Γράφουμε rtorrent για να μπούμε μέσα στο περιβάλλον του προγράμματος και βάζουμε το link του torrent (magnet link). Διαλέγουμε με τα βελάκια το torrent μας και με τα:
+ctrl+S = ξεκινά να κατεβάζει το torrent
+ctrl+D = κάνει παύση το κατέβασμα του torrent
+ctrl+D (x2) = κάνει delete το torrent
+ctrl+Q = βγαίνει από το περιβάλλων του rtorrent
